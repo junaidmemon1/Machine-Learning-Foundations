@@ -1,0 +1,19 @@
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Operating system
+.DS_Store
+Thumbs.db
